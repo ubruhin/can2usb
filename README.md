@@ -2,8 +2,9 @@
 
 ## Description
 
-This is a [LibrePCB](https://librepcb.org) project!
-Just edit this file to add a description about it.
+A CAN bus to USB interface PCB, made with [LibrePCB](https://librepcb.org).
+
+![PCB](resources/pcb.png)
 
 ## License
 
