@@ -181,7 +181,7 @@
   (lock_assembly false)
   (device 94807138-0ff4-4472-b82d-2f632268fdf3
    (variant fcb53008-22fe-4aa8-bb70-96cf242dd318)
-   (part "STM32F042C4T6" (manufacturer "")
+   (part "STM32F042C4T6" (manufacturer "STMicroelectronics")
    )
   )
   (signal 029ac647-e8bb-4394-906b-2184eb742092 (net 2f70d786-f759-486d-befd-6d9e264f7831))
@@ -271,7 +271,7 @@
   (attribute "CURRENT_RATING" (type string) (unit none) (value ""))
   (device ec4caf6d-6a6c-4e56-a9ed-4e5a618c6274
    (variant fcb53008-22fe-4aa8-bb70-96cf242dd318)
-   (part "0ZCK0035FF2G" (manufacturer "")
+   (part "0ZCK0035FF2G" (manufacturer "Bel Fuse Inc.")
    )
   )
   (signal 332a8186-d2ae-4203-9667-caca3dae9291 (net 2662de0b-ab1d-47cf-bf82-d0ccf51f945a))
@@ -296,7 +296,7 @@
   (lock_assembly false)
   (device 48727d67-e1de-4389-9947-6925c33270a4
    (variant fcb53008-22fe-4aa8-bb70-96cf242dd318)
-   (part "STLZ950/3G-5.08-H-GREEN" (manufacturer "")
+   (part "STLZ950/3G-5.08-H-GREEN" (manufacturer "PTR HARTMANN")
    )
   )
   (signal 2a1b21cb-3055-45c7-ae24-1c95c3864106 (net 9d21c147-a759-4c30-b3d4-871978f4d3a0))
@@ -311,7 +311,7 @@
   (attribute "COLOR" (type string) (unit none) (value "Yellow"))
   (device 984532c8-9d78-4976-a843-207d08b543e3
    (variant fcb53008-22fe-4aa8-bb70-96cf242dd318)
-   (part "LY R976-PS-36" (manufacturer "")
+   (part "LY R976-PS-36" (manufacturer "OSRAM")
    )
   )
   (signal 7b023430-b68f-403a-80b8-c7deb12e7a0c (net bc37feba-6bec-419e-ac2c-81beb725d5dc))
@@ -336,7 +336,7 @@
   (lock_assembly false)
   (device e8fa8615-2935-45a7-bccf-af7b673e0b1c
    (variant fcb53008-22fe-4aa8-bb70-96cf242dd318)
-   (part "PESD1CAN,215" (manufacturer "")
+   (part "PESD1CAN,215" (manufacturer "Nexperia USA Inc.")
    )
   )
   (signal 37a72879-d2c4-4489-9e75-d66aead4a71f (net 9b33d1d1-b3bd-45bc-9d04-0a66ad6f04f1))
@@ -381,7 +381,7 @@
   (lock_assembly false)
   (device c24acea9-4ada-453f-8951-9c1c8c25a277
    (variant fcb53008-22fe-4aa8-bb70-96cf242dd318)
-   (part "ADM3057ETRWZ" (manufacturer "")
+   (part "ADM3057ETRWZ" (manufacturer "Analog Devices Inc.")
    )
   )
   (signal 00795112-ffd5-4595-93a7-0cf8e86fb176 (net 9d21c147-a759-4c30-b3d4-871978f4d3a0))
@@ -433,7 +433,7 @@
   (attribute "INDUCTANCE" (type inductance) (unit millihenry) (value ""))
   (device 76a40225-1022-4fcb-abef-f90bd3a555fe
    (variant fcb53008-22fe-4aa8-bb70-96cf242dd318)
-   (part "BK1608LM182-T" (manufacturer "")
+   (part "BK1608LM182-T" (manufacturer "Taiyo Yuden")
    )
   )
   (signal 5b36d330-6f19-4391-8f95-1c2f6a658286 (net 7a6a9c73-1d63-442e-89a2-ab6d3f6a673d))
@@ -461,7 +461,7 @@
   (attribute "INDUCTANCE" (type inductance) (unit millihenry) (value ""))
   (device 76a40225-1022-4fcb-abef-f90bd3a555fe
    (variant fcb53008-22fe-4aa8-bb70-96cf242dd318)
-   (part "BK1608LM182-T" (manufacturer "")
+   (part "BK1608LM182-T" (manufacturer "Taiyo Yuden")
    )
   )
   (signal 5b36d330-6f19-4391-8f95-1c2f6a658286 (net 59335297-29d5-45dd-9673-60aa631d52a7))
@@ -489,11 +489,10 @@
  (component 8db31013-daa2-4988-9523-8b3a84f4109e
   (lib_component ef80cd5e-2689-47ee-8888-31d04fc99174)
   (lib_variant a5995314-f535-45d4-8bd8-2d0b8a0dc42a)
-  (name "R2") (value "dnm")
+  (name "R2") (value "")
   (lock_assembly false)
   (attribute "RESISTANCE" (type resistance) (unit ohm) (value ""))
   (device 483a71eb-318e-448e-82ff-f02efc4821aa
-   (variant fcb53008-22fe-4aa8-bb70-96cf242dd318)
   )
   (signal 3452d36e-1ce8-4b7c-8e5b-90c2e4929ed8 (net 6252d6ee-fbba-4612-9ec3-53a49f11c92a))
   (signal ad623f98-9e73-49c3-9404-f7cfa99d17cd (net 6f20b144-ffc1-43d0-b6e8-4180bb479e32))
@@ -549,7 +548,7 @@
   (attribute "COLOR" (type string) (unit none) (value "Green"))
   (device 7b73f4ec-2798-4254-a07a-26844e606d5b
    (variant fcb53008-22fe-4aa8-bb70-96cf242dd318)
-   (part "LG R971-KN-1" (manufacturer "")
+   (part "LG R971-KN-1" (manufacturer "OSRAM")
    )
   )
   (signal 7b023430-b68f-403a-80b8-c7deb12e7a0c (net bc37feba-6bec-419e-ac2c-81beb725d5dc))
@@ -569,7 +568,7 @@
   (lock_assembly false)
   (device c51d4eaa-5da1-423d-9491-cd32968bae52
    (variant fcb53008-22fe-4aa8-bb70-96cf242dd318)
-   (part "USBLC6-2SC6" (manufacturer "")
+   (part "USBLC6-2SC6" (manufacturer "STMicroelectronics")
    )
   )
   (signal 08b08250-3bf3-442c-bf0d-5bce4a13c3c9 (net 419ad068-e66a-42f0-9557-85c76fdfc721))
@@ -598,7 +597,7 @@
   (lock_assembly false)
   (device 07f59f3f-eac7-4549-a09a-a5e2b93346b8
    (variant fcb53008-22fe-4aa8-bb70-96cf242dd318)
-   (part "AP7370-33W5-7" (manufacturer "")
+   (part "AP7370-33W5-7" (manufacturer "Diodes Incorporated")
    )
   )
   (signal 64f4d07d-edc7-4947-ae00-879e03e04894 (net bc37feba-6bec-419e-ac2c-81beb725d5dc))
@@ -640,7 +639,7 @@
   (lock_assembly false)
   (device e0cbff8c-3f3c-4319-abf1-b5d0f80d4558
    (variant fcb53008-22fe-4aa8-bb70-96cf242dd318)
-   (part "690-005-299-043" (manufacturer "")
+   (part "690-005-299-043" (manufacturer "EDAC inc.")
    )
   )
   (signal 0ecea5c9-42e9-43b6-9e5b-e6e4d1ac0d28 (net bc37feba-6bec-419e-ac2c-81beb725d5dc))
